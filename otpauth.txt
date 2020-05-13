@@ -2,7 +2,7 @@ Scheme name: otpauth
 
 Status: Provisional
 
-Applications/protocols that use this scheme name: This scheme name is used by Google Authenticator [1] which handles generated one-time passcode via OATH [2], in order to provide an URI representation of keys [3].
+Applications/protocols that use this scheme name: This scheme name is used by Google Authenticator [1] and Microsoft Authenticator [4] which generate one-time passcodes via OATH [2], in order to provide an URI representation of keys and parameters [3].
 
 Contact: Frédéric Wang (fwang@igalia.com)
 
@@ -14,3 +14,4 @@ References:
    [1] https://github.com/google/google-authenticator
    [2] https://openauthentication.org
    [3] https://github.com/google/google-authenticator/wiki/Key-Uri-Format
+   [4] https://docs.microsoft.com/en-us/azure/active-directory/user-help/user-help-auth-app-add-non-ms-account
