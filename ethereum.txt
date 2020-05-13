@@ -1,0 +1,16 @@
+Scheme name: ethereum
+
+Status: Provisional
+
+Applications/protocols that use this scheme name: This scheme name is used by the Dat protocol [1] [2], a global, open-source platform for decentralized applications, to provide an URI syntax for resources [3].
+
+Contact: Frédéric Wang (fwang@igalia.com)
+
+Change controllers:
+  - Frédéric Wang (fwang@igalia.com)
+  - Ethereum Community ¿¿¿ ???
+
+References:
+   [1] https://ethereum.org
+   [2] https://github.com/ethereum/eth2.0-specs
+   [3] ¿¿¿ ???
