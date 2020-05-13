@@ -8,7 +8,7 @@ Contact: Frédéric Wang (fwang@igalia.com)
 
 Change controllers:
   - Frédéric Wang (fwang@igalia.com)
-  - Cabal Club (RangerMauve@hotmail.com)
+  - Cabal Club (¿¿¿ email ???)
 
 References:
    [1] https://cabal.chat
