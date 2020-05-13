@@ -1,0 +1,17 @@
+Scheme name: dweb
+
+Status: Provisional
+
+Applications/protocols that use this scheme name: This scheme name is used by distributed web protocols [1] to provide a common URI syntax for resources [2].
+
+Contact: Frédéric Wang (fwang@igalia.com)
+
+Change controllers:
+  - Frédéric Wang (fwang@igalia.com)
+  - Protocol Labs (jbenet@protocol.ai, dietrich@protocol.ai, lidel@protocol.ai)
+  - Secure Scuttlebutt Consortium (christianbundy@fraction.io)
+  - Dat Foundation (pfrazee@gmail.com)
+
+References:
+   [1] https://arewedistributedyet.com
+   [2] https://github.com/arewedistributedyet/arewedistributedyet/issues/28
