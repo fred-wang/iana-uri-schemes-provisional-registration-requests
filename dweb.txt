@@ -10,7 +10,6 @@ Change controllers:
   - Frédéric Wang (fwang@igalia.com)
   - Protocol Labs (jbenet@protocol.ai, dietrich@protocol.ai, lidel@protocol.ai)
   - Secure Scuttlebutt Consortium (christianbundy@fraction.io)
-  - Dat Foundation (pfrazee@gmail.com)
 
 References:
    [1] https://arewedistributedyet.com

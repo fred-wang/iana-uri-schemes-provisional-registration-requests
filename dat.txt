@@ -8,7 +8,7 @@ Contact: Frédéric Wang (fwang@igalia.com)
 
 Change controllers:
   - Frédéric Wang (fwang@igalia.com)
-  - Dat Foundation (pfrazee@gmail.com)
+  - Paul Frazee (pfrazee@gmail.com)
 
 References:
    [1] https://www.datprotocol.com

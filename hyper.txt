@@ -8,9 +8,9 @@ Contact: Frédéric Wang (fwang@igalia.com)
 
 Change controllers:
   - Frédéric Wang (fwang@igalia.com)
-  - Dat Foundation (pfrazee@gmail.com)
+  - Paul Frazee (pfrazee@gmail.com)
 
 References:
    [1] https://www.datprotocol.com
-   [2] ¿¿¿ spec ???
-   [3] ¿¿¿ URI definition???
+   [2] https://github.com/hypercore-protocol/hyp
+   [3] https://github.com/hypercore-protocol/hyp/blob/master/proposals/0002-hyper-url.md
